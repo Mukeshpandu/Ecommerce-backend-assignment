@@ -59,16 +59,16 @@ Includes full **role-based access** (Admin/Customer), and optional frontend to i
 
 
   ecommerce-api/
-  ├── controllers/
-  ├── models/
-  ├── routes/
-  ├── middleware/
-  ├── frontend/
-  │ └── index.html
-  ├── .env (ignored)
-  ├── .gitignore
-  ├── server.js
-  └── README.md
+    ├── controllers/
+    ├── models/
+    ├── routes/
+    ├── middleware/
+    ├── frontend/
+    │ └── index.html
+    ├── .env (ignored)
+    ├── .gitignore
+    ├── server.js
+    └── README.md
 
 
 ---
